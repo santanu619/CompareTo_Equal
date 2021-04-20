@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\bin\Debug\netcoreapp3.1\CompareTo_Equal.exe
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\bin\Debug\netcoreapp3.1\CompareTo_Equal.deps.json
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\bin\Debug\netcoreapp3.1\CompareTo_Equal.runtimeconfig.json
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\bin\Debug\netcoreapp3.1\CompareTo_Equal.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\bin\Debug\netcoreapp3.1\CompareTo_Equal.dll
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\bin\Debug\netcoreapp3.1\CompareTo_Equal.pdb
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.dll
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.pdb
+C:\Users\SANTANU\source\repos\CompareTo_Equal\CompareTo_Equal\obj\Debug\netcoreapp3.1\CompareTo_Equal.genruntimeconfig.cache
